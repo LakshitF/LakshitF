@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**LakshitF/LakshitF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Welcome to my Github Profile 👋👋 </h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://giphy.com/gifs/13HgwGsXF0aiGY" width="220">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a pre-final year student at Thapar University, pursuing my Bachelors in Computer Science.<br>
+My interests include System Design, Cloud Computing, Web/App development, Blockchain and problem solving in general.<br>
+Always looking for opportunities where I can learn, grow and contribute! :sparkles: <br>
+
+I have worked as a SWE Intern [@Rubrik](http://www.rubrik.com) for two months, which contributed a lot towards my skills.<br>
+
+- :man_technologist: Languages: C++, Python, JS
+- :cloud: Technologies: Django, React, MongoDb, SQL, Git, Postman, Docker 
+
+<a href="https://www.linkedin.com/in/lakshit-farswan/">
+  <img align="left" alt="Lakshit" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
