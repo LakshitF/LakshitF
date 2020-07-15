@@ -15,6 +15,6 @@
 ### 📫 Where to find me
 - [LinkedIn](https://linkedin.com/in/lakshit-farswan) 💼
 - [Website](https://lakshitf.herokuapp.com) 🔗
-- [Gmail](mailto:lakshit2010@gmail.com) 💌
+- [Mail](mailto:lakshit2010@gmail.com) 💌
 
-<img align='center' src="https://raw.githubusercontent.com/LakshitF/LakshitF/master/life.jpg" width="400" height="500">
+<img align='center' src="https://raw.githubusercontent.com/LakshitF/LakshitF/master/life.jpg" width="400" height="400" style="margin-left:200px" >
