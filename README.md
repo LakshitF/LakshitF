@@ -1,7 +1,7 @@
 
 <h2> Welcome to my Github Profile 👋👋 </h2>
 
-<img align='right' src="https://raw.githubusercontent.com/LakshitF/LakshitF/master/life.jpg" width="300" height="300">
+<img align='right' src="https://raw.githubusercontent.com/LakshitF/LakshitF/master/life.jpg" width="400" height="500">
 
 - :I am a pre-final year student at Thapar University, pursuing my Bachelors in Computer Science.<br>
 - :I have worked as a SWE Intern [@Rubrik](http://www.rubrik.com) for two months, which contributed a lot towards my skills.<br>
