@@ -1,8 +1,7 @@
 
 <h2 align="center"> Hi! Welcome to my profile 👋 </h2>
 
-:sparkles: I am a final year student at Thapar University, pursuing my Bachelors in Computer Science. :sparkles:<br>
-:sparkles: Currently working as a Software Engineering Intern [@Rubrik](http://www.rubrik.com)  :sparkles:<br>
+:sparkles: I am currently a Software Engineer [@Rubrik](http://www.rubrik.com) :sparkles:<br>
 :sparkles: While not developing things, I like to travel 🚀, listen to music 🎵 or play video games 🎮. :sparkles:
 
 :sparkles: My interests include System Design, Cloud Computing, Web/App development, Blockchain and problem solving in general. :sparkles:<br>
